@@ -1,0 +1,3 @@
+This is a file to create mergeConflict.
+We are here to create conflict.
+A merge conflict occurs when both the owner and collaborator change the same lines in the same file without first pulling the changes that the other has made. This is most easily avoided by good communication about who is working on various sections of each file, and trying to avoid overlaps.
